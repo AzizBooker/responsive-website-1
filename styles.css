@@ -82,6 +82,7 @@ a {
 .content-wrapper{
     max-width: 40rem;
     transform: translateY(-4rem);
+    word-wrap: ;
 }
 .tagline{
     text-transform: uppercase;
